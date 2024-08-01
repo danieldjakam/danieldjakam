@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌴 I am a <b>Web and Mobile Fullstack Developer</b>
 - 📫 This is my : <b><a href="http://danieldjakam.com" target="_blank">website</a></b>
 
-[![wakatime](https://wakatime.com/share/@danieldjakam/028aeaea-3508-4151-9b5c-74f496486363.svg)]
+![wakatime](https://wakatime.com/share/@danieldjakam/96329ee3-9faa-4f33-a26a-deeb1dc1c952.svg)
