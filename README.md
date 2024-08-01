@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-**danieldjakam/danieldjakam** 
+=
 
 <!--
 Here are some ideas to get you started:
@@ -14,5 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm DANIEL DJAKAM
+
+- 🌴 I am a <b>Web and Mobile Fullstack Developer</b>
+- 📫 This is my : <b><a href="https://danieldjakam.com" target="_blank">website</a></b>
 
 [![wakatime](https://wakatime.com/badge/user/7ffdaa13-c976-416b-aff7-53ab0df31493.svg)](https://wakatime.com/@7ffdaa13-c976-416b-aff7-53ab0df31493)
