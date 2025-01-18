@@ -25,21 +25,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 - **Tools and Platforms:**
 
   - Docker
-  - Kubernetes
   - Postman
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project Name](Link to Project Repository):**
-
-  - **Description:** [Brief description of the project]
-  - **Technologies:** [Technologies used in the project]
-- **[Another Project Name](Link to Project Repository):**
-
-  - **Description:** [Brief description of the project]
-  - **Technologies:** [Technologies used in the project]
 
 ## Coding Stats
 
