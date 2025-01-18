@@ -1,21 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Daniel Djakam! 👋
 
+I'm a passionate software developer with a keen interest in building scalable and efficient applications. Welcome to my GitHub profile!
 
-<!--
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I'm DANIEL DJAKAM
+- 🌱 I’m currently learning **Machine Learning and Cloud Computing**
+- 🔭 I’m currently working on **Shika**
+- 💬 Ask me about  **DevOps**
+- 📫 How to reach me: **danidjakam@gmail.com**
 
-- 🌴 I am a <b>Web and Mobile Fullstack Developer</b>
-- 📫 This is my : <b><a href="http://danieldjakam.com" target="_blank">website</a></b>
+## My Skills
+
+- **Programming Languages:**
+
+  - Python
+  - JavaScript
+  - Php
+- **Frameworks and Libraries:**
+
+  - React & React Native
+  - Laravel
+  - Node.js
+  - Adonis
+- **Tools and Platforms:**
+
+  - Docker
+  - Kubernetes
+  - Postman
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- **[Project Name](Link to Project Repository):**
+
+  - **Description:** [Brief description of the project]
+  - **Technologies:** [Technologies used in the project]
+- **[Another Project Name](Link to Project Repository):**
+
+  - **Description:** [Brief description of the project]
+  - **Technologies:** [Technologies used in the project]
+
+## Coding Stats
 
 ![wakatime](https://wakatime.com/share/@danieldjakam/96329ee3-9faa-4f33-a26a-deeb1dc1c952.svg)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/danieldjakam)
+- [Twitter: @daniel_djakam](https://twitter.com/daniel_djakam)
+- [Instagram : @daniel_djakam](https://instagram.com/daniel_djakam)
+- [Personal Website](https://danieldjakam.com/)
+
+Feel free to check out my repositories and contributions. I'm always open to collaboration and learning new things!
